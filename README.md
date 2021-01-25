@@ -1,2 +1,2 @@
-# latihan
-file latihan ku
+# LATIHAN GITHUB
+File latihan Github
